@@ -6,4 +6,5 @@ pip install tqdm matplotlib
 
 python homework2_bmi500.py
 
+The cProfiler pdfs are added to github
 
