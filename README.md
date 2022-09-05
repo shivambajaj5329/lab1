@@ -6,5 +6,6 @@ pip install tqdm matplotlib
 
 python homework2_bmi500.py
 
-The cProfiler pdfs are added to gdrive
+The cProfiler pngs are added to gdrive 
+      The pngs are stored as : ShivamBajaj_Python_Profiler1.png and ShivamBajaj_Python_Profiler2.png
 
